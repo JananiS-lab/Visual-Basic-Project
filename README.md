@@ -1,1 +1,1 @@
-# 02-Visual Basic-HW
+# 02-VBScript-HW
